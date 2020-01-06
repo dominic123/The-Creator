@@ -1,5 +1,12 @@
-{
+[{
   "id": 1,
   "title": "The Test",
   "img_path": "https://raw.githubusercontent.com/dominic123/The-Creator/master/treasure/images/car.jpg"
-}
+},
+
+{
+  "id": 2,
+  "title": "The Test123",
+  "img_path": "https://static.evanscycles.com/production/bikes/hybrid-bikes/product-image/Original/trek-ds-3-2019-hybrid-bike-silver-EV340578-7500-1.jpg"
+}]
+
