@@ -1,6 +1,5 @@
 {
-  "userId": 1,
   "id": 1,
-  "title": "delectus aut autem",
-  "completed": false
+  "title": "The Test",
+  "img_path": "https://raw.githubusercontent.com/dominic123/The-Creator/master/car.jpg"
 }
